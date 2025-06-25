@@ -1,10 +1,3 @@
-# matplotlib-gallery
-
-This repository is a collection of different `matplotlib` plots in IPython notebooks that I needed for my data visualizations.
-
-This project is not connected to the gallery on [http://matplotlib.org/gallery.html](http://matplotlib.org/gallery.html), although there might be some overlap and redundancy.
-
-**To view the IPython notebooks, simply click on the header links or images.**
 
 ### Sections
 
