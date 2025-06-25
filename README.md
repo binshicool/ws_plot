@@ -28,20 +28,6 @@ This project is not connected to the gallery on [http://matplotlib.org/gallery.h
 <br>
 <br>
 
-#### I am looking forward to your contributions, suggestions, and ideas
-
-If you have any suggestions or want to make additions, I would be very happy if you could send me  
-
-- an [email](mailto:se.raschka@gmail.com),  
-- leave me a message on [google+](https://plus.google.com/u/0/+SebastianRaschka),
-- or even send me a tweet on [twitter](https://twitter.com/rasbt) (given you can fit it within the 140 character limit ;)).  
-
-Or even better: It would be great if you would simply fork this project and send me a pull request.
-
-<br>
-<br>
-<br>
-<br>
 
 
 ## [2D histograms / heat maps / levelplots](./ipynb/heatmaps.ipynb)
